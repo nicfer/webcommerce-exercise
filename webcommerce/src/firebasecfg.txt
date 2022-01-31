@@ -1,0 +1,36 @@
+
+/* import { initializeApp } from "firebase/app";
+
+import { getDatabase } from "firebase/database";
+
+// TODO: Add SDKs for Firebase products that you want to use
+
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+
+// Your web app's Firebase configuration
+
+const firebaseConfig = {
+
+  apiKey: "AIzaSyBMmgr11aLfHmL1v3-thAm7SHjUVj4sPeA",
+
+  authDomain: "react-exercise-5aee3.firebaseapp.com",
+
+  projectId: "react-exercise-5aee3",
+
+  storageBucket: "react-exercise-5aee3.appspot.com",
+
+  messagingSenderId: "589974161359",
+
+  appId: "1:589974161359:web:09fb709adfdba60f47f4ba", 
+
+  databaseURL: "https://react-exercise-5aee3-default-rtdb.firebaseio.com/",
+
+};
+
+
+
+// Initialize Firebase
+
+const app = initializeApp(firebaseConfig);
+const database = getDatabase(); */
